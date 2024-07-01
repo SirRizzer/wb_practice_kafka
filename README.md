@@ -5,10 +5,10 @@
 4) программа Offset Explorer, просмотреть данные в топике. выложить скрины с результатами в свой git 
 5) чтение из топика питоном. выложить в свой git
 
-1.	Создаем папку /docker_with_sasl/
-cd docker_with_sasl/
-Создаем файлы: файл compose.yml, client.properties, kafka_server_jaas.conf, zookeeper_jaas.conf
-Запускаем compose.yml docker compose up -d
+1.	Создаем папку /docker_with_sasl/</br>
+cd docker_with_sasl/</br>
+Создаем файлы: файл compose.yml, client.properties, kafka_server_jaas.conf, zookeeper_jaas.conf</br>
+Запускаем compose.yml docker compose up -d</br>
  <img width="468" alt="image" src="https://github.com/SirRizzer/wb_practice_kafka/assets/61479067/2bac5c96-67c9-4506-91ed-f196e335657b">
 
 Получаем развернутые контейнеры с конфигами, прописанными в созданных файлах.
